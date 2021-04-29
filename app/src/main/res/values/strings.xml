@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">LastName</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Phone">Phone</string>
+    <string name="SUBMIT">SUBMIT</string>
+</resources>
